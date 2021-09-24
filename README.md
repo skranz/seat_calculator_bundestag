@@ -10,4 +10,4 @@ https://www.bundeswahlleiter.de/dam/jcr/05c1185a-173f-4bab-80d6-51027c94b1bc/bwg
 
 I use the code in my blog post here:
 
-http://skranz.github.io/r/2021/09/22/bundestag2021.html
+http://skranz.github.io/r/2021/09/24/bundestag2021.html
